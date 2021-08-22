@@ -1,0 +1,22 @@
+{
+  "name": "clase03-1917885",
+  "version": "1.0.0",
+  "description": "profile instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/Clase03-1917885.git"
+  },
+  "author": "America Gonzaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/Clase03-1917885/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/Clase03-1917885#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
